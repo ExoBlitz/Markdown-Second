@@ -4,7 +4,7 @@
 * **Graduated from BHS**: 2012
 * **Graduated from UMass Amherst**: 2016
 
-![Clifford book cover](https://prodimage.images-bn.com/pimages/9780545215787_p0_v2_s550x406.jpg)
+![Clifford book cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388851547l/858719.jpg)
 # Summary
 
 Hello World! I am Mr. Clifford. I am a Computer Science teacher at Brockton High School. I am also the Web Content Manager for Brockton Public Schools.
